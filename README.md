@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Mill
 
 # 💫 About Me:
 📍 Based in Bangkok, Thailand<br><br>🎓 Studying Computer Innovation Engineering at King Mongkut's Institute of Technology Ladkrabang (KMITL)<br><br>💻 Passionate about Web Development and AI Technology<br><br>🤖 Exploring the intersection of AI and software engineering
